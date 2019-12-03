@@ -6,7 +6,7 @@
           cols="10"
           class="rounded p-3 border border-white bg-dark text-white"
           style="font-size: 20px"
-        >control home device</b-col>
+        >control room client</b-col>
         <b-col cols="2" class="rounded p-3 border border-white bg-danger" v-on:click="logout">
           <font-awesome-icon icon="sign-out-alt" style="font-size: 30px"/>
         </b-col>
